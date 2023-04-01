@@ -18,7 +18,7 @@ I'm very excited to share my coding journey with you. Take a look at my reposito
 ## 🤝🏻 Let's work together:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanshipinkoski/)
 
-[![Website](https://img.shields.io/badge/Website-0077B5?style=for-the-badge&logo=web&logoColor=white)](https://www.linkedin.com/in/stefanshipinkoski/)
+[![Website](https://img.shields.io/badge/Website-1E8B9F?style=for-the-badge&logo=web&logoColor=white)](https://stefanshipinkoski.pythonanywhere.com)
 
 ---
 
