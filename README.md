@@ -14,14 +14,16 @@ I'm very excited to share my coding journey with you. Take a look at my reposito
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanshipinkoski)](https://github.com/stefanshipinkoski/github-readme-stats)
 
-
-
-<a href="https://www.buymeacoffee.com/shipinkoskistef" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 ---
 ## 🤝🏻 Let's work together:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanshipinkoski/)
 
 [![Website](https://img.shields.io/badge/Website-0077B5?style=for-the-badge&logo=web&logoColor=white)](https://www.linkedin.com/in/stefanshipinkoski/)
+
+---
+
+<a href="https://www.buymeacoffee.com/shipinkoskistef" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 <!--
 
 Here are some ideas to get you started:
