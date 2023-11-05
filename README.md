@@ -29,7 +29,6 @@ I'm always on the journey of learning and improving my skills:
 - 🧠 Diving into algorithm optimization
 
 ---
-
 ## 🤝🏻 Let's work together:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanshipinkoski/)
 
