@@ -6,11 +6,13 @@
 ---
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanshipinkoski&show_icons=true&theme=dracula)](https://github.com/stefanshipinkoski/github-readme-stats)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=stefanshipinkoski&show_icons=true)](https://github.com/stefanshipinkoski/github-readme-stats)
+
 
 
 ---
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanshipinkoski)](https://github.com/stefanshipinkoski/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanshipinkoski&hide_progress=true)
 
 ## 🚀 My Skills
 
